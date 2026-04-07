@@ -55,6 +55,8 @@
 <!-- Streak Stats（连续打卡） -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akiyy-Lab&theme=radical&hide_border=true)
 
+![Akiyy-Lab's GitHub Contributions](https://github-contributions-api.jogruber.de/v4/Akiyy-Lab?chart=calendar&theme=radical&hide_border=true)
+
 ---
 
 <div align="center">
