@@ -55,7 +55,25 @@
 <!-- Streak Stats（连续打卡） -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akiyy-Lab&theme=radical&hide_border=true)
 
-![Akiyy-Lab's GitHub Contributions](https://github-contributions-api.jogruber.de/v4/Akiyy-Lab?chart=calendar&theme=radical&hide_border=true)
+---
+
+### 📅 贡献活动 / Contribution Activity
+
+<picture>
+  <!-- 深色模式 -->
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-stats.vercel.app/api?username=Akiyy-Lab&theme=radical&hide_border=true&include_all_commits=true&show_icons=true&hide_title=true&hide=prs,issues,contribs&custom_title=Contribution%20Activity" />
+  
+  <!-- 浅色模式 -->
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github-readme-stats.vercel.app/api?username=Akiyy-Lab&theme=default&hide_border=true&include_all_commits=true&show_icons=true&hide_title=true&hide=prs,issues,contribs&custom_title=Contribution%20Activity" />
+  
+  <img 
+    alt="Akiyy-Lab's Contribution Activity" 
+    src="https://github-readme-stats.vercel.app/api?username=Akiyy-Lab&theme=radical&hide_border=true&include_all_commits=true&show_icons=true&hide_title=true&hide=prs,issues,contribs" />
+</picture>
 
 ---
 
